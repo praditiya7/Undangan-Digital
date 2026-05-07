@@ -13,8 +13,9 @@
     "react-dom": "latest",
     "framer-motion": "latest",
     "lucide-react": "latest",
-    "autoprefixer": "latest",
+    "tailwindcss": "latest",
     "postcss": "latest",
+    "autoprefixer": "latest",
     "clsx": "latest",
     "tailwind-merge": "latest"
   }
